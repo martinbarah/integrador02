@@ -1,0 +1,106 @@
+.d-block
+{
+    filter: brightness(60%);
+    
+}
+
+
+.col2
+{
+    font-weight: bold;
+    
+}
+
+
+.izquierda
+{
+    margin: 0%;
+    padding: 0%;
+    
+}
+
+
+.derecha
+{
+   background-color: #434242;
+   margin: 0%;
+   padding: 1%;
+   
+}
+
+
+.formulario
+{
+  width: 40%;
+  margin-left: 30%;
+  margin-right: 10%;
+
+}
+
+
+.footer-main
+{
+  background-color:#434242;
+  
+}
+
+
+.columna
+{
+  width: 60%;
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  
+
+}
+
+
+.botones
+{
+  width: 40%;
+  margin-left: 30%;
+  margin-right: 10%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+      
+
+}
+
+
+.card
+{
+  margin-bottom: 20px;
+
+}
+
+
+.boton-accion-izq
+{
+margin-right: 6px;
+
+}
+
+
+.boton-accion-der
+{
+margin-left: 6px;
+
+}
+
+
+.result
+{
+
+background-color: #b0e0ff;
+padding: 8px;  
+color: #0075c2; 
+font-weight: 500;
+width: 100%;
+border-radius: 5px;
+outline: none;
+border: 0px solid;
+
+ 
+}
